@@ -19,7 +19,7 @@ const CallToAction = (props: Props) => {
         Grouple is a vibrant online community platform that empowers {" "}
         <br className="md:hidden" />
         people to connect, <br className="hidden md:block" /> collaborate, and
-        cultivate meaningful
+        cultivate meaningful {" "}
         <br className="md:hidden" />
         relationships
       </p>
